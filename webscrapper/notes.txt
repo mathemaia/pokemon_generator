@@ -1,0 +1,3 @@
+a fazeres: 
+- lidar com nomes compostos (Ex.: Mr. Mime)
+- extrair as gerações entrando na página de cada pokemon
